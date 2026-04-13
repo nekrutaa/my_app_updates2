@@ -1,6 +1,6 @@
 {
   "version": "1.2.1",
-  "url": "https://drive.google.com/uc?id=13fsM1jNEefQEDZq6ZrwKISAyPKSjYmgJ&export=download",
+  "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1207845610/e7c852e6-7a65-4892-ae19-210e1b0f16cf?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-04-13T05%3A10%3A15Z&rscd=attachment%3B+filename%3Dapp-release.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-04-13T04%3A09%3A33Z&ske=2026-04-13T05%3A10%3A15Z&sks=b&skv=2018-11-09&sig=mGzI9DpnefJcKn1VZesTQSvL8IvvpINf5cJoQqJzk1s%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NjA1NjI5NiwibmJmIjoxNzc2MDU0NDk2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.lY2pGemitQBcG2dcZ76aDeqOOuAcC-_VUIzVJoPgv0Q&response-content-disposition=attachment%3B%20filename%3Dapp-release.apk&response-content-type=application%2Fvnd.android.package-archive",
   "changelog": "- обновление, добавлена смена тарифа",
   "required": false
 }
